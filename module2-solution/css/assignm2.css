@@ -24,7 +24,6 @@ div {
   float: left;
   text-align: left;
   color: black;
-  height: 150px;
   position: relative;
   overflow: hidden;
 }
@@ -52,9 +51,12 @@ div {
  			color: black;
 			}
 
-section {padding: 2%; 
-	     clear: both;
+section {
+       padding: 10px; 
+       clear: both;
        font-size: 75%;
+       height: 140px;
+       position: relative;
 	    }
 
 /********** Mobile max 767 **********/
