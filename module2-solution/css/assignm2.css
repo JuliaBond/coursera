@@ -24,10 +24,10 @@ div {
   float: left;
   text-align: left;
   color: black;
-  height: auto;
+  height: 150px;
   position: relative;
+  overflow: hidden;
 }
-
 
 #p_all { 
 	   text-align: center;
@@ -86,7 +86,6 @@ section {padding: 2%;
   }
   #p3{
   	width: 98%; 
-    height: 130%; 
   }
   #p3 > .p_all_3 {width: 16.8%;}
 
