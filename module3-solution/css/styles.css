@@ -1,0 +1,60 @@
+body {
+  font-size: 16px;
+  color: black;
+  background-color: #fff;
+  font-family: 'Oxygen', sans-serif;
+}
+
+
+.blue-name {
+  color: #003366;
+  font-weight: bold;
+  font-size: 1.2em;
+  margin: 2px 0px 10px 0px;
+}
+
+.wrapper{
+  background-color: #ececec;
+  padding: 10px 10px 10px 10px;
+  margin: 20px 5px 10px ;
+}
+
+.nav-menu {
+  color: #003366;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
+
+}
+
+#nav-list li a:hover, #nav-list li a:focus {
+  background-color: #9bb1c3;
+  color: black;
+}
+
+/*HEADER*/
+#header-nav {
+	background-color: #CCCCCC;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand h1 { /* LLC name */
+  color: #060606;
+  font-size: 1.5em;
+   font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+  font-size: 1.1em;
+}
+
+
+.navbar-nav {
+  text-align: center;
+  text-decoration-color: #003366;
+}
+
